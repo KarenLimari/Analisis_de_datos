@@ -182,8 +182,7 @@ plt.show()
 
 
     
-[![png](An%C3%A1lisis_de_datos_Sector_salud_Chile_files/An%C3%A1lisis_de_datos_Sector_salud_Chile_10_0.png)](https://github.com/KarenLimari/Analisis_de_datos/blob/main/An%C3%A1lisis_de_datos_Sector_salud_Chile_10_0.png?raw=true)
-    
+(https://github.com/KarenLimari/Analisis_de_datos/blob/main/An%C3%A1lisis_de_datos_Sector_salud_Chile_10_0.png?raw=true)  
 
 
 3. Distribución de Trabajadores por Tipo de Contrato: Se muestra la evolución de trabajadores dependientes y a honorarios en empresas de diferentes tamaños (Micro, Pequeña, Mediana, Grande). El gráfico de barras permite observar la formalidad en el empleo, diferenciando entre aquellos con contrato dependiente y aquellos bajo la modalidad de honorarios.
@@ -223,7 +222,7 @@ plt.show()
 
 
     
-![png](An%C3%A1lisis_de_datos_Sector_salud_Chile_files/An%C3%A1lisis_de_datos_Sector_salud_Chile_12_0.png)
+(https://github.com/KarenLimari/Analisis_de_datos/blob/main/An%C3%A1lisis_de_datos_Sector_salud_Chile_12_0.png?raw=true)
     
 
 
