@@ -143,7 +143,7 @@ plt.show()
 
 
     
-[![png](An%C3%A1lisis_de_datos_Sector_salud_Chile_files/An%C3%A1lisis_de_datos_Sector_salud_Chile_8_0.png)](https://github.com/KarenLimari/Analisis_de_datos/blob/main/An%C3%A1lisis_de_datos_Sector_salud_Chile_10_0.png)
+[[![png](An%C3%A1lisis_de_datos_Sector_salud_Chile_files/An%C3%A1lisis_de_datos_Sector_salud_Chile_8_0.png)](https://github.com/KarenLimari/Analisis_de_datos/blob/main/An%C3%A1lisis_de_datos_Sector_salud_Chile_10_0.png)](https://github.com/KarenLimari/Analisis_de_datos/blob/main/An%C3%A1lisis_de_datos_Sector_salud_Chile_8_0.png?raw=true)
     
 
 
